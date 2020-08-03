@@ -12,8 +12,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-Description:- 
+### Description:- 
 
-App is used to Track the Expenses as well as income. App is using Context API, for Global state Management
-1:- Create Expense(+ve will indicate Income and -ve will indicate The Expense)
-2:- Delete the Expense
+App is used to Track the Expenses as well as income. <br /> App is using Context API, for Global state Management <br />
+1:- Create Expense(+ve will indicate Income and -ve will indicate The Expense) <br />
+2:- Delete the Expense <br />
